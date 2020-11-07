@@ -13,7 +13,7 @@ You can visit the [project] here: [text](url)
 Instructions
 
 ## To Do
-* see [TODO](path) file.
+* see [TODOs: Initial Release](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/projects/1) project.
 
 ## License 
 * see [LICENSE](path) file.
