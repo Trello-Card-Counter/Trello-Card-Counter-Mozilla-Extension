@@ -1,11 +1,12 @@
 {
   "manifest_version": 2,
   "name": "Trello Card Counter",
-  "version": "1.0",
+  "short_name": "Card Counter",
+  "version": "0.0.5",
   "author": "Adam Jaamour",
 
   "description": "Counts the number of cards in each trello column.",
-  "homepage_url": "https://github.com",
+  "homepage_url": "https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension",
 
   "icons": {
     "16": "icons/strike_16.png",
