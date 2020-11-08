@@ -1,0 +1,20 @@
+/* Import web font Fira Sans */
+@font-face {
+    font-family: 'Fira Sans';
+    src: url('fonts/FiraSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Use imported font */
+.title .toggle-switch-label {
+    font-family: 'Fira Sans', sans-serif;
+}
+
+/* Center toggle switch button */
+.toggle-switch-container {
+    text-align: center;
+}
+.toggle-switch {
+    margin: auto;
+}

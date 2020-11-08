@@ -1,22 +1,28 @@
 <!DOCTYPE html>
 
-<html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
+
+    <!-- Import CSS stylesheets -->
     <link rel="stylesheet" href="style/toggle_switch.css"/>
-    <link rel="stylesheet" href="style/fonts.css"/>
+    <link rel="stylesheet" href="style/style.css"/>
 </head>
 
 <body>
-    <p style="font-family: 'Fira Sans', sans-serif">Trello Card Counter</p>
-    <div style="text-align: center">
-    <label class="switch switch-flat" style="margin: auto">
-        <input class="switch-input" type="checkbox" checked="true"/>
-        <span class="switch-label" style="font-family: 'Fira Sans', sans-serif" data-on="On" data-off="Off"></span>
-        <span class="switch-handle"></span>
-    </label>
+    <!-- Title -->
+    <p class="title">Trello Card Counter</p>
+
+    <!-- Toggle switch button -->
+    <div class="toggle-switch-container">
+        <label class="switch switch-flat toggle-switch">
+            <input class="switch-input" type="checkbox" checked="true"/>
+            <span class="switch-label toggle-switch-label" data-on="On" data-off="Off"></span>
+            <span class="switch-handle"></span>
+        </label>
     </div>
 
+    <!-- Import scripts -->
     <script src="popup_listener.js"></script>
 </body>
 
