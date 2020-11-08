@@ -2,13 +2,19 @@
   "manifest_version": 2,
   "name": "Trello Card Counter",
   "version": "1.0",
+  "author": "Adam Jaamour",
 
   "description": "Counts the number of cards in each trello column.",
   "homepage_url": "https://github.com",
 
   "icons": {
-    "64": "icons/abacus_64.png",
-    "128": "icons/abacus_128.png"
+    "16": "icons/strike_16.png",
+    "24": "icons/strike_24.png",
+    "32": "icons/strike_32.png",
+    "64": "icons/strike_64.png",
+    "128": "icons/strike_128.png",
+    "256": "icons/strike_256.png",
+    "512": "icons/strike_512.png"
   },
 
   "permissions": [
@@ -16,7 +22,15 @@
   ],
 
   "browser_action": {
-    "default_icon": "icons/abacus_64.png",
+    "default_icon": {
+      "16": "icons/strike_16.png",
+      "24": "icons/strike_24.png",
+      "32": "icons/strike_32.png",
+      "64": "icons/strike_64.png",
+      "128": "icons/strike_128.png",
+      "256": "icons/strike_256.png",
+      "512": "icons/strike_512.png"
+    },
     "default_title": "Trello Card Counter",
     "default_popup": "popup/popup.html"
   }
