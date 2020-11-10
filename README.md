@@ -8,8 +8,8 @@ A Mozilla Firefox extension that counts the number of cards in each column of yo
 
 <p align="center">
 <img src="assets/screenshot_popup.png" width="222">
-</p>
 <img src="assets/screenshot_count.png" width="888">
+ </p>
 
 ## Usage
 
