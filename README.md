@@ -6,8 +6,10 @@ A Mozilla Firefox extension that counts the number of cards in each column of yo
 
 ## Screenshots
 
-![alt text](assets/screenshot_popup.png)
-![alt text](assets/screenshot_count.png)
+<p align="center">
+<img src="assets/screenshot_popup.png" width="222">
+</p>
+<img src="assets/screenshot_count.png" width="888">
 
 ## Usage
 
@@ -21,7 +23,7 @@ Either download from the Firefox Browser Add-Ons store or manually install using
 
 * Click "Load Temporary Add-on".
  
-* Select any file in your extension's directory.
+* Select `manifest.json` in the extension's directory.
 
 ## To Do
 * see [TODOs: Initial Release](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/projects/1) project.
