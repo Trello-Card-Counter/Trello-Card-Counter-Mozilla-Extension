@@ -18,3 +18,22 @@
 .toggle-switch {
     margin: auto;
 }
+
+/* Flex container for logo + title at top of popup */
+.flex-title-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+.logo-left {
+    padding-right: 10px;
+}
+.title-right {
+    color: rgb(22, 22, 22);
+    text-align: right;
+}
