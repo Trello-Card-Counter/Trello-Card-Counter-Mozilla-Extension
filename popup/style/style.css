@@ -49,5 +49,10 @@ footer {
     color: rgb(55, 55, 55);
 }
 .footer-link {
+    color: #0088cc;
+    text-decoration: none;
+}
+.footer-heart {
+    color: red;
     text-decoration: none;
 }
