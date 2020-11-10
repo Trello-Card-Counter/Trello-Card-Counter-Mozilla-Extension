@@ -7,9 +7,15 @@ A Mozilla Firefox extension that counts the number of cards in each column of yo
 ## Screenshots
 
 <p align="center">
-<img src="assets/screenshot_popup.png" width="222">
-<img src="assets/screenshot_count.png" width="888">
- </p>
+ <img src="assets/screenshot_popup.png" width="222">
+ <br>Screenshot of the extension's popup.
+</p>
+
+<p align="center">
+ <img src="assets/screenshot_count.png" width="888">
+ <br>Screenshot of the card count in each column.
+</p>
+
 
 ## Usage
 
