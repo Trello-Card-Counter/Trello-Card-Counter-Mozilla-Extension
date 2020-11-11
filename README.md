@@ -37,6 +37,7 @@ From any of your Trello boards, click on the extension icon in the top-right tas
 
 ## To Do
 * see [TODOs: Initial Release](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/projects/1) project.
+* see [TODOs: Future Release](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/projects/2) project.
 
 ## License 
 * see [LICENSE](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/blob/master/LICENSE) file.
