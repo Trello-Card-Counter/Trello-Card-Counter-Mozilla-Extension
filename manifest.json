@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Trello Card Counter",
   "short_name": "Card Counter",
-  "version": "0.0.8",
+  "version": "1.0.0",
   "author": "Adam Jaamour",
 
   "description": "Counts the number of cards in each trello column.",
