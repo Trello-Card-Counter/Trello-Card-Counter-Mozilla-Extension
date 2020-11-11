@@ -1,8 +1,8 @@
 # Trello Card Counter - A Mozilla Firefox Extension
 
-A Mozilla Firefox extension that counts the number of cards in each column of your Trello boards.
+A Mozilla Firefox extension that counts the number of cards in each column of any Trello board. The interactive toggle switch allows users to switch between showing the card count and hiding the card count on Trello boards.
 
-[![](assets/get-the-addon-178x60px.dad84b42.png)](http://www.adam.jaamour.com/)
+[![](assets/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/firefox/addon/trello-card-count/)
 
 ## Screenshots
 
@@ -19,7 +19,7 @@ A Mozilla Firefox extension that counts the number of cards in each column of yo
 
 ## Installation Instructions
 
-Either download from the Firefox Browser Add-Ons store or manually install using instructions below:
+Either download from the [Firefox Browser Add-Ons store](https://addons.mozilla.org/firefox/addon/trello-card-count/) or manually install using instructions below:
 
 * Open Firefox.
 
