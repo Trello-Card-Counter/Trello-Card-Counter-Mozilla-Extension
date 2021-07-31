@@ -45,7 +45,7 @@ footer {
 }
 .footer-text {
     text-align: center;
-    font-size: 11px;
+    font-size: 12px;
     color: rgb(55, 55, 55);
 }
 .footer-link {
@@ -57,5 +57,5 @@ footer {
     text-decoration: none;
 }
 .buy-me-a-coffee-button {
-    width: 110px !important;
+    width: 120px !important;
 }
