@@ -12,7 +12,7 @@
     // Create HTML for button.
     let numberOfCardsButtonHTML = '<a id="button-total-cards-count" class="board-header-btn board-header-btn-invite ' +
       'board-header-btn-without-icon" title="Invite to board"><span class="board-header-btn-text">' +
-      'Number of cards: ' + numberOfCards + '</span></a>'
+      'Total cards: <b>' + numberOfCards + '</b></span></a>'
     // Add button to Trello board.
     document.getElementsByClassName("board-header-btns mod-left")[1].innerHTML += numberOfCardsButtonHTML;
   } else {

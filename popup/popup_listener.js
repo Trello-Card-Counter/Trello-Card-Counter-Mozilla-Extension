@@ -1,5 +1,7 @@
 // Show the total number of cards in the board.
-browser.tabs.executeScript({file: "../content_scripts/create_total_cards_button.js"});
+window.onload = (event) => { // https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event
+  browser.tabs.executeScript({file: "../content_scripts/create_total_cards_button.js"});
+};
 
 // Automatically show card counter when the extension popup is opened (default is "On").
 browser.tabs.executeScript({file: "../content_scripts/show_card_counters.js"});
