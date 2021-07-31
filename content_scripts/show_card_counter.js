@@ -4,7 +4,11 @@
  * number in each column.
  */
 (function () {
+  // Show counter for each column.
   document.querySelectorAll('.js-num-cards').forEach(function (list) {
     list.classList.remove('hide');
   })
+
+  // Show total card counter.
+  document.getElementById("button-total-cards-count").hidden = false;
 })();
