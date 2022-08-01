@@ -3,11 +3,11 @@
  * already calculated by Trello but is not being used, so this function simply removes the 'hide' class to display the
  * number in each column.
  */
-(function () {
+(() => {
   // Show counter for each column.
-  document.querySelectorAll('.js-num-cards').forEach(function (list) {
-    list.classList.remove('hide');
-  })
+  document.querySelectorAll(".js-num-cards").forEach((list) => {
+    list.classList.remove("hide");
+  });
 
   // Show total card counter.
   document.getElementById("button-total-cards-count").hidden = false;
