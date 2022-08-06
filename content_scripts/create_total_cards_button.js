@@ -21,5 +21,4 @@
 
     // Check if button already exists before creating it.
     if (!buttonInstance) boardHeaderButtons += numberOfCardsButtonHTML;
-    console.log("Created on/off button.")
 })();
