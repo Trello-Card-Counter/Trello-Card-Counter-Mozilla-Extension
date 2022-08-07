@@ -2,11 +2,11 @@
   "manifest_version": 2,
   "name": "Trello Card Counter",
   "short_name": "Card Counter",
-  "version": "1.1.1",
+  "version": "1.2",
   "author": "Adam Jaamour",
 
   "description": " An elegant Trello extension that directly integrates into any Trello board to count the total number of cards in the board and individual columns.",
-  "homepage_url": "https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension",
+  "homepage_url": "https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension",
 
   "icons": {
     "24": "icons/with-background/icon24px.png",
