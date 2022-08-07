@@ -28,7 +28,10 @@
     position: relative;
     display: block;
     height: inherit;
-    font-size: 12px;
+    font-size: 13px;
+    font-weight: 800;
+    font-family: 'Koln Messe-Deutz', sans-serif;
+    letter-spacing: 0.2em;
     text-transform: uppercase;
     background: #eceeef;
     border-radius: inherit;

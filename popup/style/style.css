@@ -1,14 +1,9 @@
-/* Import web font Fira Sans */
+/* Import  web font Koln Messe-Deutz (https://www.urbanfonts.com/fonts/Koln_Messe-Deutz.font) */
 @font-face {
-    font-family: 'Fira Sans';
-    src: url('fonts/FiraSans-Regular.ttf') format('truetype');
-    font-weight: 400;
+    font-family: 'Koln Messe-Deutz';
+    src: url('fonts/KolnMesseDeutz.ttf') format('truetype');
+    font-weight: normal;
     font-style: normal;
-}
-
-/* Use imported font */
-.title .toggle-switch-label {
-    font-family: 'Fira Sans', sans-serif;
 }
 
 /* Center toggle switch button */
@@ -35,17 +30,24 @@
 .title-right {
     color: rgb(33, 33, 33);
     text-align: right;
-    font-style: italic;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 0.9;
+    letter-spacing: 0.13em;
+    font-family: 'Koln Messe-Deutz', sans-serif;
 }
 
 /* Footer */
 footer {
-    margin-top: 30px;
+    margin-top: 25px;
     margin-bottom: -5px;
 }
 .footer-text {
+    font-family: 'Koln Messe-Deutz', sans-serif;
     text-align: center;
-    font-size: 12px;
+    font-size: 13px;
+    line-height: 1.1em;
+    letter-spacing: 0.025em;
     color: rgb(55, 55, 55);
 }
 .footer-link {
@@ -57,5 +59,5 @@ footer {
     text-decoration: none;
 }
 .buy-me-a-coffee-button {
-    width: 120px !important;
+    width: 135px !important;
 }
