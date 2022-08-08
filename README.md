@@ -12,16 +12,14 @@ The interactive toggle switch allows users to switch between showing and hiding 
 
 ## Screenshots
 
-<p align="center">Screenshots of the add-on's UI popup:</p>
+Screenshots of the add-on's UI popup:
 
 Popup: ON              | Popup: OFF 
 :-------------------------:|:-----------------:
 <img src="assets/screenshot_popup_on.png" width="222"> | <img src="assets/screenshot_popup_off.png" width="222">
 
-<p align="center">
- <br>Screenshot of the total card count and the card count for individual columns.
- <img src="assets/screenshot_count.png" width="888">
-</p>
+Screenshot of the total card count and the card count for individual columns:
+<img src="assets/screenshot_count.png" width="888">
 
 
 ## Installation Instructions
@@ -46,8 +44,8 @@ While visiting any of your Trello boards, click on the extension icon in the top
 
 GitHub releases:
 
-* [v1.2]() (08/08/2022)
-* [v1.1]() (01/08/2021)
+* **[v1.2](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.2) (08/08/2022)**
+* [v1.1](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.1) (01/08/2021)
 * [v1.0](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.0) (11/11/2020)
 
 Mozilla releases:
