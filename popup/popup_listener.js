@@ -1,3 +1,6 @@
+// var browser = require("webextension-polyfill");
+browser.tabs.executeScript({file: "browser-polyfill.js"});
+
 // Show the total number of cards in the board.
 window.onload = (event) => { // https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event
   browser.tabs.executeScript({file: "../content_scripts/create_total_cards_button.js"});
