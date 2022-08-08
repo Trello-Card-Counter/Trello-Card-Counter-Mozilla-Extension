@@ -12,20 +12,21 @@ The interactive toggle switch allows users to switch between showing and hiding 
 
 ## Screenshots
 
-<p align="center">
- <img src="assets/screenshot_popup.png" width="222">
- <br>Screenshot of the extension's UI popup.
-</p>
+<p align="center">Screenshots of the add-on's UI popup:</p>
+
+Popup: ON              | Popup: OFF 
+:-------------------------:|:-----------------:
+<img src="assets/screenshot_popup_on.png" width="222"> | <img src="assets/screenshot_popup_off.png" width="222">
 
 <p align="center">
- <img src="assets/screenshot_count.png" width="888">
  <br>Screenshot of the total card count and the card count for individual columns.
+ <img src="assets/screenshot_count.png" width="888">
 </p>
 
 
 ## Installation Instructions
 
-Either download from the [Firefox Browser Add-Ons store](https://addons.mozilla.org/firefox/addon/trello-card-count/) to get the official/updated version or manually install using instructions below:
+Either download the official version from the [Firefox Browser Add-Ons store](https://addons.mozilla.org/firefox/addon/trello-card-count/) to get the verified/up-to-date version or manually install using instructions below:
 
 * Open Firefox.
 
@@ -39,19 +40,20 @@ Either download from the [Firefox Browser Add-Ons store](https://addons.mozilla.
 
 ## Usage
 
-From any of your Trello boards, click on the extension icon in the top-right taskbar to reveal the number of cards in each column. Use the button alternate between showing and hiding the card count.
+While visiting any of your Trello boards, click on the extension icon in the top-right taskbar to reveal the number of cards in each column. Use the button to  alternate between showing and hiding the card count.
 
 ## Releases
 
 GitHub releases:
 
+* [v1.2]() (08/08/2022)
+* [v1.1]() (01/08/2021)
 * [v1.0](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.0) (11/11/2020)
-* v1.1
 
 Mozilla releases:
 * [Version history](https://addons.mozilla.org/en-US/firefox/addon/trello-card-count/versions/)
 
-## To Do
+## Upcoming Features
 * see [TODOs: Initial Release](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/projects/1) project.
 * see [TODOs: Future Release](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/projects/2) project.
 
@@ -63,3 +65,9 @@ Mozilla releases:
 * Website: www.adam.jaamour.com
 * LinkedIn: [linkedin.com/in/adamjaamour](https://www.linkedin.com/in/adamjaamour/)
 * Twitter: [@Adamouization](https://twitter.com/Adamouization)
+
+## Support
+
+<a href="https://www.buymeacoffee.com/adamjaamour">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=adamjaamour&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"/>
+</a>
