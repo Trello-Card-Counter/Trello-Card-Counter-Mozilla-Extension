@@ -13,12 +13,13 @@
     "js": [
       "content_scripts/create_total_cards_button.js",
       "content_scripts/hide_card_counters.js",
-      "content_scripts/show_card_counters.js"
+      "content_scripts/show_card_counters.js",
+      "browser-polyfill.min.js"
     ]
   }],
 
   "background": {
-    "scripts": ["browser-polyfill.js"]
+    "scripts": ["browser-polyfill.min.js"]
   },
 
   "icons": {
