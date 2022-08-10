@@ -44,7 +44,8 @@ While visiting any of your Trello boards, click on the extension icon in the top
 
 GitHub releases:
 
-* **[v1.2](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.2) (08/08/2022)**
+* **[v1.2.1](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.2.1) (10/08/2022)**
+* [v1.2](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.2) (08/08/2022)
 * [v1.1](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.1) (01/08/2021)
 * [v1.0](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.0) (11/11/2020)
 
