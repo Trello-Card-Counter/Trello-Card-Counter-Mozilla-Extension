@@ -17,6 +17,10 @@
     ]
   }],
 
+  "background": {
+    "scripts": ["browser-polyfill.js"]
+  },
+
   "icons": {
     "24": "icons/with-background/icon24px.png",
     "48": "icons/with-background/icon.png",
