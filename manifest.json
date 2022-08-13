@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Trello Card Counter",
   "short_name": "Card Counter",
-  "version": "1.2.1",
+  "version": "1.3",
   "author": "Adam Jaamour",
 
   "description": " An elegant Trello extension that directly integrates into any Trello board to count the total number of cards in the board and individual columns.",
@@ -11,9 +11,7 @@
   "content_scripts": [{
     "matches" : ["<all_urls>"],
     "js": [
-      "content_scripts/create_total_cards_button.js",
-      "content_scripts/hide_card_counters.js",
-      "content_scripts/show_card_counters.js"
+      "browser-polyfill.min.js"
     ]
   }],
 
