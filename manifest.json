@@ -9,7 +9,9 @@
   "homepage_url": "https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension",
 
   "content_scripts": [{
-    "matches" : ["<all_urls>"],
+    "matches" : [
+      "*://*.trello.com/b/*"
+    ],
     "js": [
       "browser-polyfill.min.js"
     ]
