@@ -11,4 +11,7 @@
 
   // Hide total card counter.
   document.getElementById("button-total-cards-count").hidden = true;
+
+  // Hide avg card counter.
+  document.getElementById("button-avg-cards-count").hidden = true;
 })();

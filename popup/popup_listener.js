@@ -1,6 +1,7 @@
 window.onload = async () => { // https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event
     await browser.tabs.executeScript({file: "/browser-polyfill.min.js"});
     await browser.tabs.executeScript({file: "/content_scripts/create_total_cards_button.js"});
+    await browser.tabs.executeScript({file: "/content_scripts/create_avg_cards_button.js"});
     await browser.tabs.executeScript({file: "/content_scripts/show_card_counters.js"});
 };
 
