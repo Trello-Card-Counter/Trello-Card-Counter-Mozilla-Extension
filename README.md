@@ -8,7 +8,7 @@ It helps by counting the number of cards in each column and by counting the tota
 
 The interactive toggle switch allows users to switch between showing and hiding the card counts in any Trello board.
 
-[![](assets/get-the-addon-178x60px.dad84b42.png)](https://addons.mozilla.org/firefox/addon/trello-card-count/)
+[![](assets/get_addon_firefox.png)](https://addons.mozilla.org/firefox/addon/trello-card-count/)
 
 ## Screenshots
 
@@ -44,8 +44,9 @@ While visiting any of your Trello boards, click on the extension icon in the top
 
 GitHub releases:
 
-* **[v1.2.1](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.2.1) (10/08/2022)**
-* [v1.2](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.2) (08/08/2022)
+* **[v1.3](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.3) (18/08/2022)**
+* [v1.2.1](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.2.1) (10/08/2022)
+  * [v1.2](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.2) (08/08/2022)
 * [v1.1](https://github.com/Trello-Card-Counter/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.1) (01/08/2021)
 * [v1.0](https://github.com/Adamouization/Trello-Card-Counter-Mozilla-Extension/releases/tag/v1.0) (11/11/2020)
 
