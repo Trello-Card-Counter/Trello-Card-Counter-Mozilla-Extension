@@ -25,7 +25,7 @@ window.onload = async () => { // https://developer.mozilla.org/en-US/docs/Web/AP
     browser.scripting.executeScript({
         target: {tabId: await getCurrentTabId()},
         files: [
-            "/browser-polyfill.min.js",
+            "/lib/browser-polyfill.min.js",
             "/content_scripts/create_total_cards_button.js",
             "/content_scripts/create_avg_cards_button.js",
             "/content_scripts/show_card_counters.js"
