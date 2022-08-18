@@ -13,7 +13,7 @@
       "*://*.trello.com/b/*"
     ],
     "js": [
-      "browser-polyfill.min.js"
+      "lib/browser-polyfill.min.js"
     ]
   }],
 
